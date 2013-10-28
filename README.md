@@ -1,0 +1,2 @@
+Simple-JQuery-Slider
+====================
