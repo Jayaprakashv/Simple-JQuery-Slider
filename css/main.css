@@ -299,7 +299,12 @@ textarea {
     }
 }
 
-/**  New Styles **/
+/**  New Styles **/ 
 
+#slider-wrapper {width:500px; height:200px;}
+#slider {width:500px; height:200px; position:relative;}
+.sp {width:500px; height:200px; position:absolute;}
 
-
+#nav {margin-top:20px; width:100%;}
+#button-previous {float:left;}
+#button-next {float:right;}
