@@ -301,10 +301,54 @@ textarea {
 
 /**  New Styles **/ 
 
-#slider-wrapper {width:500px; height:200px;}
-#slider {width:500px; height:200px; position:relative;}
-.sp {width:500px; height:200px; position:absolute;}
+#slider-wrapper {
+        width:500px; 
+        height:100%;
+}
+#slider {
+         width:500px; 
+        height:100%; 
+        position:relative;
+}
+.sp {
+    width: 500px;
+height: 200px;
+position: absolute;
+margin-left: 400px;
+}
 
 #nav {margin-top:20px; width:100%;}
-#button-previous {float:left;}
-#button-next {float:right;}
+#button-previous { 
+        float:left;
+        background: url('../img/controls.png') no-repeat 0 0;
+	width: 32px;
+	height: 31px;
+        cursor: pointer;
+        position: relative;
+        top: 180px;
+        left: 365px;
+}
+#button-next {
+        float:right; 
+        background: url('../img/controls.png') no-repeat -43px 0;
+	width: 32px;
+	height: 31px;
+        cursor: pointer;
+        position: relative;
+        top: 180px;
+        right: 330px;      
+}
+.sp-wrap{
+    background:#ccc;
+    width: 600px;
+    position: absolute;
+    top: 303px;
+}
+.sp p{
+    color:#000; 
+    width:580px;
+    text-align: justify;
+    font-family: Verdena;
+    font-size: 15px;
+    padding: 5px;
+}
