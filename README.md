@@ -1,7 +1,8 @@
 # [Simple JQuey Slider ](http://jayaprakashav.com)
  
+ Simple JQuery slider plugin.Easy to configure and use.
 
-## Quick start
+## Steps for installation (Developer Mode)
 
 Stage 1
 
@@ -35,8 +36,15 @@ It's important to note there are thousands of ways you can achieve this. This is
 
 ## Features
 
-* 
+* Loop slider
 
+* Single Image sliding
+
+* Responsiveness (Coming Soon)
+
+* Next and Previous Controller
+
+* Devie Ready Optimization (Coming Soon)
 
 ## Documentation
 
